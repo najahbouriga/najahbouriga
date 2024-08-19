@@ -1,4 +1,4 @@
-## 🌟 About Me
+# 🌟 About Me
 
 I am a dedicated **Frontend Developer** with over 4 years of experience, specializing in building dynamic and responsive web applications using **Angular** and **React**. I have a proven track record of enhancing user experiences through efficient design and state management. I excel in collaborating within Agile teams to deliver top-quality software solutions.
 
@@ -41,32 +41,40 @@ I am a dedicated **Frontend Developer** with over 4 years of experience, special
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![CouchDB](https://img.shields.io/badge/couchdb-%23E35A5F.svg?style=for-the-badge&logo=apachecouchdb&logoColor=white)
 
-## 📈 Experiences
+## 📈 Experience
 
-**Accelex Technology Limited, Sfax, Tunisia**  
-*Software Engineer · Front-End Developer (Mar. 2022 - Dec. 2023)*  
-• Redesigned the client-side UI and architecture for Accelex Version 3, enhancing user experience and performance.  
-• Developed the new “Organisation” module, streamlining data management processes and increasing operational efficiency.  
-• Implemented efficient state management in Angular components using NgRx and integrated data using REST APIs.  
-• Achieved 80% test coverage with Jest, and conducted end-to-end testing with Cypress to reduce post-deployment issues.  
-• Engaged in Agile development cycles, using tools like JIRA and GitHub.
+### **Accelex Technology Limited, Sfax, Tunisia**  
+*Software Engineer · Front-End Developer*  
+*Mar. 2022 - Dec. 2023*
 
-**Coconsult, Sfax, Tunisia**  
-*Software Engineer · Front-End Developer (Nov. 2021 - Feb. 2022)*  
-• Contributed to the development of an ERP system using Angular, enhancing functionality and integration across various modules.  
-• Developed reusable Angular components and prepared comprehensive documentation for future development.  
-• Implemented Angular best practices, including modular architecture, lazy loading, and code splitting to optimize performance.
+- Redesigned UI and architecture for Accelex Version 3.
+- Developed the “Organisation” module; optimized code for performance.
+- Implemented state management with NgRx and API integration.
+- Conducted testing with Jest and Cypress.
+- Used JIRA, GitHub, and Figma.
 
-**FOODOMARKET services, Sfax, Tunisia**  
-*Software Engineer · Front-End Developer (Oct. 2021 - Dec 2021)*  
-• Redesigned FoodoMarket’s web application using React.js and developed a mobile version with React Native.  
-• Implemented state management solutions and collaborated with back-end developers to integrate APIs.
+### **Coconsult, Sfax, Tunisia**  
+*Software Engineer · Front-End Developer*  
+*Nov. 2021 - Feb. 2022*
 
-**ASM - All Soft Multimedia, Sfax, Tunisia**  
-*Software Engineer · Full-Stack Developer (Aug. 2019 - Sep. 2021)*  
-• Designed and developed web applications using Angular for front-end and Spring Boot/Laravel for back-end services.  
-• Developed a form-building web application, significantly streamlining template creation.  
-• Utilized Agile methodologies and tools like Redmine and GitLab for project management and version control.
+- Developed ERP system modules using Angular.
+- Created reusable components and documentation.
+- Followed Angular best practices and implemented Service Workers.
+
+### **FOODOMARKET Services, Sfax, Tunisia**  
+*Software Engineer · Front-End Developer*  
+*Oct. 2021 - Dec. 2021*
+
+- Redesigned web app with React.js and mobile app with React Native.
+- Managed state with Redux and integrated APIs.
+
+### **ASM - All Soft Multimedia, Sfax, Tunisia**  
+*Software Engineer · Full-Stack Developer*  
+*Aug. 2019 - Sep. 2021*
+
+- Full-stack development with Angular, Spring Boot, and Laravel.
+- Developed and tested applications, ensuring cross-browser compatibility.
+- Key projects: Form Builder, Cover3 Admin, Polyclinic.
 
 ## 🎓 Education
 
@@ -77,10 +85,11 @@ I am a dedicated **Frontend Developer** with over 4 years of experience, special
 *Preparatory Engineering Degree (2013 - 2016)*
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=najahbouriga&theme=vue&hide_border=true&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=najahbouriga&theme=vue&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=najahbouriga&theme=vue&hide_border=true&include_all_commits=false&count_private=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=najahbouriga&theme=vue&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najahbouriga&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=najahbouriga&icon=0&color=0" alt="visitor count"/>
-</div>
+## 🔗 Visitor Count
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=najahbouriga&icon=0&color=0)
